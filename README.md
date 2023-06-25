@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leitherchen
 - 👀 I’m interested in deep learning,image processing
 - 🌱 I’m currently learning docker
-- 💞️ I’m looking to collaborate on +8615257164909
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
